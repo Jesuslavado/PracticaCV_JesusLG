@@ -9,7 +9,7 @@
             //INICIALIZACIÓN
             //ENTRADA
             //PROCESO
-            //SALIDA
+            //SALIDA.
         }
     }
 }
