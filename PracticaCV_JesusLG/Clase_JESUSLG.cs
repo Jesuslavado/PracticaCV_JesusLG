@@ -8,5 +8,11 @@ namespace PracticaCV_JesusLG
 {
     internal class Clase_JESUSLG
     {
+        //CONSTANTES
+        //VARIABLES
+        //INICIALIZACIÓN
+        //ENTRADA
+        //PROCESO
+        //SALIDA
     }
 }
