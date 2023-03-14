@@ -9,7 +9,8 @@
             //INICIALIZACIÓN
             //ENTRADA
             //PROCESO
-            //SALIDA.
+            //SALIDA
+            Console.WriteLine("Mi nombre es:Jesús Lavado García");
         }
     }
 }
